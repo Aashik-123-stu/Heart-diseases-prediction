@@ -197,7 +197,7 @@ Passwords are never stored as plain text.
 6. Add downloadable prediction reports
 7. Deploy the application online
     
-##⚕️ Disclaimer
+## Disclaimer
 
     This application is developed for educational and demonstration purposes only.
 
