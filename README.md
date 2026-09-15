@@ -61,7 +61,7 @@ The application allows users to enter patient health parameters and receive a pr
               ▼               ▼
          Lower Risk       Higher Risk
 
-
+```
     ## Federated Learning
 
     The prediction model is trained using a Federated Learning approach.
