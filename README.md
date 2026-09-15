@@ -169,15 +169,23 @@ Passwords are never stored as plain text.
 ## Prediction Workflow
     
  1.User logs into the application.
+ 
  2.Patient health information is entered.
+ 
  3.Input features are converted into the required format.
+ 
  4.Features are scaled using the saved scaler.
+ 
  5.The processed data is passed to the trained 1D CNN model.
+ 
  6.The model generates a risk probability.
+ 
  7.The application displays:
  Lower Risk
  Higher Risk
+ 
  8.The prediction is stored in the user's prediction history.
+ 
 
 ## Future Improvements
 
@@ -189,7 +197,7 @@ Passwords are never stored as plain text.
 6. Add downloadable prediction reports
 7. Deploy the application online
     
-⚕️ Disclaimer
+##⚕️ Disclaimer
 
     This application is developed for educational and demonstration purposes only.
 
