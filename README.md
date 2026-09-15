@@ -4,6 +4,7 @@ A web-based **Heart Disease Risk Prediction System** powered by a **1D Convoluti
 
 The application allows users to enter patient health parameters and receive a predicted heart disease risk probability through a simple and user-friendly Streamlit interface.
 
+Live URL : https://heart-diseases-prediction-hk8cofjxet3fzwkhp5yrnr.streamlit.app/
 
 ##  Features
 
